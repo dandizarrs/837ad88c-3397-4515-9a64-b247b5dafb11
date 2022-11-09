@@ -1,5 +1,5 @@
-1653509265.994604s 1 https://api.dandiarchive.org/api/zarr/837ad88c-3397-4515-9a64-b247b5dafb11.zarr/0/0/0/10/11/13
-1653509660.189731s 1 https://api.dandiarchive.org/api/zarr/837ad88c-3397-4515-9a64-b247b5dafb11.zarr/0/0/0/10/3/13
+1667373260.967133s 1 https://api.dandiarchive.org/api/zarr/837ad88c-3397-4515-9a64-b247b5dafb11.zarr/0/0/0/10/11/13
+1667385491.391035s 1 https://api.dandiarchive.org/api/zarr/837ad88c-3397-4515-9a64-b247b5dafb11.zarr/0/0/0/10/3/13
 1653510397.573097s 1 https://api.dandiarchive.org/api/zarr/837ad88c-3397-4515-9a64-b247b5dafb11.zarr/0/0/0/11/11/14
 1653510807.880723s 1 https://api.dandiarchive.org/api/zarr/837ad88c-3397-4515-9a64-b247b5dafb11.zarr/0/0/0/11/2/14
 1653511763.858046s 1 https://api.dandiarchive.org/api/zarr/837ad88c-3397-4515-9a64-b247b5dafb11.zarr/0/0/0/12/12/15
@@ -25,8 +25,8 @@
 1654027799.488814s 1 https://api.dandiarchive.org/api/zarr/837ad88c-3397-4515-9a64-b247b5dafb11.zarr/0/0/0/9/3/12
 1654027970.259048s 1 https://api.dandiarchive.org/api/zarr/837ad88c-3397-4515-9a64-b247b5dafb11.zarr/0/0/0/9/4/12
 1654028599.537689s 1 https://api.dandiarchive.org/api/zarr/837ad88c-3397-4515-9a64-b247b5dafb11.zarr/0/0/0/9/9/12
-1667373260.17316s 1 https://dandiarchive.s3.amazonaws.com/zarr/837ad88c-3397-4515-9a64-b247b5dafb11/0/0/0/10/11/13?versionId=61AgrMyLM0MmIK6yPB5cFGHEflpbnX0o
-1653509660.133509s 1 https://dandiarchive.s3.amazonaws.com/zarr/837ad88c-3397-4515-9a64-b247b5dafb11/0/0/0/10/3/13?versionId=8uoLIhH9tS7WASQu2X.2q3vUbWlmlHtB
+1667997014.142926s 1 https://dandiarchive.s3.amazonaws.com/zarr/837ad88c-3397-4515-9a64-b247b5dafb11/0/0/0/10/11/13?versionId=61AgrMyLM0MmIK6yPB5cFGHEflpbnX0o
+1667385490.515137s 1 https://dandiarchive.s3.amazonaws.com/zarr/837ad88c-3397-4515-9a64-b247b5dafb11/0/0/0/10/3/13?versionId=8uoLIhH9tS7WASQu2X.2q3vUbWlmlHtB
 1653510397.51881s 1 https://dandiarchive.s3.amazonaws.com/zarr/837ad88c-3397-4515-9a64-b247b5dafb11/0/0/0/11/11/14?versionId=QYRFmawgQ94V6fmO7ol4Twa4KvLqzXBV
 1653510800.370172s 1 https://dandiarchive.s3.amazonaws.com/zarr/837ad88c-3397-4515-9a64-b247b5dafb11/0/0/0/11/2/14?versionId=4mG9HF1ZUwuLEAkIhCQnEEGYXDbo9F69
 1653511763.831262s 1 https://dandiarchive.s3.amazonaws.com/zarr/837ad88c-3397-4515-9a64-b247b5dafb11/0/0/0/12/12/15?versionId=CqCDEaiAlocPdBU7ChP81Lokv1uafexP
@@ -52,6 +52,10 @@
 1654027799.397293s 1 https://dandiarchive.s3.amazonaws.com/zarr/837ad88c-3397-4515-9a64-b247b5dafb11/0/0/0/9/3/12?versionId=No2YjYe9Nd_hHDL.F0fLjueCxeFLM5Ej
 1654027970.210813s 1 https://dandiarchive.s3.amazonaws.com/zarr/837ad88c-3397-4515-9a64-b247b5dafb11/0/0/0/9/4/12?versionId=3dTzlV5TrslSo.93uNM4P2AD3l7q6YsI
 1654028599.483548s 1 https://dandiarchive.s3.amazonaws.com/zarr/837ad88c-3397-4515-9a64-b247b5dafb11/0/0/0/9/9/12?versionId=7hZc63BWRPdd_hbQAaPB1Yqa1CyrbEWX
-1667373260.967133s 1 https://api.dandiarchive.org/api/zarr/837ad88c-3397-4515-9a64-b247b5dafb11.zarr/0/0/0/10/11/13
-1667385490.515137s 1 https://dandiarchive.s3.amazonaws.com/zarr/837ad88c-3397-4515-9a64-b247b5dafb11/0/0/0/10/3/13?versionId=8uoLIhH9tS7WASQu2X.2q3vUbWlmlHtB
-1667385491.391035s 1 https://api.dandiarchive.org/api/zarr/837ad88c-3397-4515-9a64-b247b5dafb11.zarr/0/0/0/10/3/13
+1667997014.442155s 1 https://api.dandiarchive.org/api/zarr/837ad88c-3397-4515-9a64-b247b5dafb11.zarr/0/0/0/10/11/13
+1667998596.440056s 1 https://dandiarchive.s3.amazonaws.com/zarr/837ad88c-3397-4515-9a64-b247b5dafb11/0/0/0/10/3/13?versionId=8uoLIhH9tS7WASQu2X.2q3vUbWlmlHtB
+1667998596.443557s 1 https://api.dandiarchive.org/api/zarr/837ad88c-3397-4515-9a64-b247b5dafb11.zarr/0/0/0/10/3/13
+1668001250.890513s 1 https://dandiarchive.s3.amazonaws.com/zarr/837ad88c-3397-4515-9a64-b247b5dafb11/0/0/0/11/11/14?versionId=QYRFmawgQ94V6fmO7ol4Twa4KvLqzXBV
+1668001250.973589s 1 https://api.dandiarchive.org/api/zarr/837ad88c-3397-4515-9a64-b247b5dafb11.zarr/0/0/0/11/11/14
+1668002566.290106s 1 https://dandiarchive.s3.amazonaws.com/zarr/837ad88c-3397-4515-9a64-b247b5dafb11/0/0/0/11/2/14?versionId=4mG9HF1ZUwuLEAkIhCQnEEGYXDbo9F69
+1668002566.296728s 1 https://api.dandiarchive.org/api/zarr/837ad88c-3397-4515-9a64-b247b5dafb11.zarr/0/0/0/11/2/14
